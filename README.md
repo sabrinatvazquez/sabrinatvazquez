@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi, I'm Sabrina 👋
+
+
+
+
+
+A Data Analytics & Visualisation Expert 📈
+
+I bring data to life with:
+• Tableau
+• Alteryx
+• SQL
+
 
 <!--
 **sabrinatvazquez/sabrinatvazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
