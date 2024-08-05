@@ -1,10 +1,10 @@
 ## Hi, I'm Sabrina 👋
+"I strive to enable others to make sense of and leverage data making their work more intuitive and efficient."
 
 
 A Data Analytics & Visualisation Expert 📈
 
 <br>
-
 Specialized in bring data to life through:
 
 **Tableau** | **Alteryx** | **SQL**
@@ -83,10 +83,26 @@ Best part about data is the community.
 
 ## Certifications
 
-<a href="https://www.credly.com/badges/6865c865-d83d-4986-8a5a-efe7c0e49d15/public_url">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/alteryx-designer-advanced-certification.png?raw=true" width="20%">
+<a href="https://www.credly.com/badges/5f9c4778-b71f-4a2d-8ab8-09258ba840a6/public_url">
+  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/Credly%20Badges/2023-tableau-certified-data-analyst.png?raw=true" width="24%">
 </a>
 
+<a href="https://www.credly.com/badges/6865c865-d83d-4986-8a5a-efe7c0e49d15/public_url">
+  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/Credly%20Badges/2024-alteryx-designer-advanced-certification.png?raw=true" width="24%">
+</a>
+
+<a href="https://www.credly.com/badges/31d21a1e-0af1-4076-9bef-1edede38b137/public_url">
+  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/Credly%20Badges/2024-alteryx-auto-insights-micro-credential.png?raw=true" width="24%">
+</a>
+
+<a href="https://www.credly.com/badges/1defaa8b-a49e-4638-b255-c527eadea9ca/public_url">
+  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/Credly%20Badges/2024-alteryx-machine-learning-fundamentals-micro-credential.png?raw=true" width="24%">
+</a>
+
+<br>
+<br>
+
+View my other certifications on my [Credly profile](https://www.credly.com/users/sabrinatvazquez)!
 <br>
 <br>
 <br>
@@ -95,9 +111,10 @@ Best part about data is the community.
 
 Originally from Miami, FL I am living my dream working in NYC as a data analyst consultant. 
 
-Data is a more recent passion, but it does not mean I lack skills. 
-I was trained in the Data School powered by The Information Lab where I underwent 4 months of intensive training in Tableau and Alteryx. 
-Now, I am still in the program in the Information Lab, but working with many different external clients in all different industries.
+Though my passion for data is relatively new, it doesn't diminish my expertise and skills in the field.
+
+I was trained at the Data School powered by The Information Lab where I underwent 4 months of intensive training in Tableau and Alteryx. 
+Now, while still at the Information Lab, I working with many different external clients in all different industries.
 My longest placement was with Vanguard where I was a contracted Data Analyst for 6 months. 
 
 <br>
