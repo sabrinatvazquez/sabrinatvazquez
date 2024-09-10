@@ -111,7 +111,9 @@ View my other certifications on my [Credly profile](https://www.credly.com/users
 
 Originally from Miami, FL I am living my dream working in NYC as a data analyst consultant. 
 
+<!--
 Though my passion for data is relatively new, it doesn't diminish my expertise and skills in the field.
+-->
 
 I was trained at the Data School powered by The Information Lab where I underwent 4 months of intensive training in Tableau and Alteryx. 
 Now, while still at the Information Lab, I working with many different external clients in all different industries.
