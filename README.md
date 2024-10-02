@@ -3,6 +3,7 @@
 
 
 A Data Analytics & Visualisation Expert 📈
+
 Specialized in bring data to life through:
 
 **Tableau** | **Alteryx** | **SQL**
