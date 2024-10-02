@@ -116,7 +116,7 @@ Though my passion for data is relatively new, it doesn't diminish my expertise a
 -->
 
 I was trained at the Data School powered by The Information Lab where I underwent 4 months of intensive training in Tableau and Alteryx. 
-Now, while still at the Information Lab, I working with many different external clients in all different industries.
+Now, while still at the Information Lab, I am working with many different external clients in all different industries.
 My longest placement was with Vanguard where I was a contracted Data Analyst for 6 months. 
 
 <br>
