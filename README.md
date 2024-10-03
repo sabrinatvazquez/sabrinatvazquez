@@ -57,8 +57,13 @@ And many more on my [Tableau Public](https://public.tableau.com/app/profile/sabr
 ### Blogs
 
 <a href="https://www.thedataschool.com/blog/sabrina-vazquez/">
-  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/other_images/til_blogs.png?raw=true" width="33%">
+  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/other_images/til_blogs.png?raw=true" width="50%">
   </a>
+
+<br>
+
+More on my Data School [Profile](https://www.thedataschool.com/blog/sabrina-vazquez/).
+
   
 <br>
 <br>
