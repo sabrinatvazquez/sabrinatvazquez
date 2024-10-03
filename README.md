@@ -57,7 +57,7 @@ And many more on my [Tableau Public](https://public.tableau.com/app/profile/sabr
 ### Blogs
 
 <a href="https://www.thedataschool.com/blog/sabrina-vazquez/">
-  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/Other%20Images/TIL Blogs.png?raw=true" width="33%">
+  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/other_images/til_blogs.png?raw=true" width="33%">
   </a>
   
 <br>
@@ -92,19 +92,19 @@ See my [Summer of SQL](https://github.com/sabrinatvazquez/summer_of_sql) repo wi
 ## Certifications
 
 <a href="https://www.credly.com/badges/5f9c4778-b71f-4a2d-8ab8-09258ba840a6/public_url">
-  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/Credly%20Badges/2023-tableau-certified-data-analyst.png?raw=true" width="24%">
+  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/credly_badges/2023-tableau-certified-data-analyst.png?raw=true" width="24%">
 </a>
 
 <a href="https://www.credly.com/badges/6865c865-d83d-4986-8a5a-efe7c0e49d15/public_url">
-  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/Credly%20Badges/2024-alteryx-designer-advanced-certification.png?raw=true" width="24%">
+  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/credly_badges/2024-alteryx-designer-advanced-certification.png?raw=true" width="24%">
 </a>
 
 <a href="https://www.credly.com/badges/31d21a1e-0af1-4076-9bef-1edede38b137/public_url">
-  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/Credly%20Badges/2024-alteryx-auto-insights-micro-credential.png?raw=true" width="24%">
+  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/credly_badges/2024-alteryx-auto-insights-micro-credential.png?raw=true" width="24%">
 </a>
 
 <a href="https://www.credly.com/badges/1defaa8b-a49e-4638-b255-c527eadea9ca/public_url">
-  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/Credly%20Badges/2024-alteryx-machine-learning-fundamentals-micro-credential.png?raw=true" width="24%">
+  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/credly_badges/2024-alteryx-machine-learning-fundamentals-micro-credential.png?raw=true" width="24%">
 </a>
 
 <br>
