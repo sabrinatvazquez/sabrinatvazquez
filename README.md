@@ -57,8 +57,9 @@ And many more on my [Tableau Public](https://public.tableau.com/app/profile/sabr
 ### Blogs
 
 <a href="https://www.thedataschool.com/blog/sabrina-vazquez/">
-<img src="https://www.thedataschool.com/blog/sabrina-vazquez/">
-
+  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/Other%20Images/TIL Blogs.png?raw=true" width="33%">
+  </a>
+  
 <br>
 <br>
 
@@ -70,15 +71,20 @@ Best part about data is the community.
 ### Challenges
 
 #### Tableau Challenges
-###### MoM
-
-###### WoW
-
-#### Alteryx Challenges
+###### MoM & WoW
+See my one hour MoM attempts and some WoWs on my [Tableau Public](https://public.tableau.com/app/profile/sabrina.tatiana.vazquez/vizzes).
+<br>
 
 #### Tableau Prep Challenges
+###### Preppin' Data 
+<br> 
+
+#### Alteryx Challenges
+See my [Alteryx Community Profile](https://community.alteryx.com/t5/user/viewprofilepage/user-id/471778).
+<br>
 
 #### SQL Challenges
+See my [Summer of SQL](https://github.com/sabrinatvazquez/summer_of_sql) repo with my solutions.
 
 <br>
 <br>
