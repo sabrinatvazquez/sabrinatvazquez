@@ -1,5 +1,5 @@
 ## Hi, I'm Sabrina 👋
-"I strive to enable others to make sense of and leverage data making their work more intuitive and efficient."
+"I aim to enable others to make sense of and leverage data making their work more intuitive and efficient."
 
 
 A Data Analytics & Visualisation Expert 📈
