@@ -33,7 +33,7 @@ Specialized in bring data to life through:
 #### Topics of Interest
 
 <a href="https://public.tableau.com/app/profile/sabrina.tatiana.vazquez/viz/AroundtheWorldwith16Personalities/CIRCLEANDBOXES">
-    <img src="https://public.tableau.com/thumb/views/AroundtheWorldwith16Personalities/Dashboard1" width ="33%">
+    <img src="https://public.tableau.com/thumb/views/AroundtheWorldwith16Personalities/CIRCLEANDBOXES" width ="33%">
   </a>
 
 <a href="https://public.tableau.com/app/profile/sabrina.tatiana.vazquez/viz/FormulaOneRacePath/Dashboard1">
