@@ -1,34 +1,28 @@
 ## Hi, I'm Sabrina 👋
 "I aim to enable others to make sense of and leverage data making their work more intuitive and efficient."
 
-Solutions Consultant
-Data Analytics & Visualisation Expert
+I am a Tableau Ambassador and specialized in:
+**Tableau** | **Alteryx** | **PBI** | **SQL**
 
-
-Specialized in bring data to life through:
-**Tableau** | **Alteryx** | **PBI** |**SQL**
+<br>
+<br>
 
 ## 👤 About Me
 
-Originally from Miami, FL I am living my dream working in NYC as a solutions consultant focused on data analytics. 
-
-<!--
-Though my passion for data is relatively new, it doesn't diminish my expertise and skills in the field.
--->
+Based in NYC and originally from Miami, FL I am working as a Solutions Consultant focused on data analytics. 
 
 I was trained at the Data School powered by The Information Lab where I underwent 4 months of intensive training in Tableau and Alteryx. 
 Now, while still at the Information Lab, I am working with different external clients in all different industries.
 Past clients include Vanguard, Squaretrade, Davis Polk & Wardell, and Scotiabank. 
 
-<br>
-<br>
+
 <br>
 <br>
 <br>
 
 ## ⭐ Data Viz Projects
 
-#### Business Style
+#### Business Style Dashboards
 
 <a href="https://public.tableau.com/app/profile/sabrina.tatiana.vazquez/viz/SalesPipelineAnalysis_17224548706830/OppOverview">
     <img src="https://public.tableau.com/thumb/views/SalesPipelineAnalysis_17224548706830/OppOverview" width ="33%">
@@ -109,21 +103,10 @@ See my [Summer of SQL](https://github.com/sabrinatvazquez/summer_of_sql) repo wi
 
 ## Certifications
 
-<a href="https://www.credly.com/badges/5f9c4778-b71f-4a2d-8ab8-09258ba840a6/public_url">
-  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/credly_badges/2023-tableau-certified-data-analyst.png?raw=true" width="24%">
+<a href="https://public.tableau.com/app/profile/sabrina.tatiana.vazquez/vizzes">
+  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/credly_badges/2026-tableau-ambassador.png?raw=true" width="24%">
 </a>
 
-<a href="https://www.credly.com/badges/6865c865-d83d-4986-8a5a-efe7c0e49d15/public_url">
-  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/credly_badges/2024-alteryx-designer-advanced-certification.png?raw=true" width="24%">
-</a>
-
-<a href="https://www.credly.com/badges/31d21a1e-0af1-4076-9bef-1edede38b137/public_url">
-  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/credly_badges/2024-alteryx-auto-insights-micro-credential.png?raw=true" width="24%">
-</a>
-
-<a href="https://www.credly.com/badges/1defaa8b-a49e-4638-b255-c527eadea9ca/public_url">
-  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/credly_badges/2024-alteryx-machine-learning-fundamentals-micro-credential.png?raw=true" width="24%">
-</a>
 
 <br>
 <br>
