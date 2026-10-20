@@ -8,7 +8,20 @@ Data Analytics & Visualisation Expert
 Specialized in bring data to life through:
 **Tableau** | **Alteryx** | **PBI** |**SQL**
 
+## 👤 About Me
 
+Originally from Miami, FL I am living my dream working in NYC as a solutions consultant focused on data analytics. 
+
+<!--
+Though my passion for data is relatively new, it doesn't diminish my expertise and skills in the field.
+-->
+
+I was trained at the Data School powered by The Information Lab where I underwent 4 months of intensive training in Tableau and Alteryx. 
+Now, while still at the Information Lab, I am working with different external clients in all different industries.
+Past clients include Vanguard, Squaretrade, Davis Polk & Wardell, and Scotiabank. 
+
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -120,20 +133,6 @@ View my other certifications on my [Credly profile](https://www.credly.com/users
 <br>
 <br>
 
-## 👤 About Me
-
-Originally from Miami, FL I am living my dream working in NYC as a solutions consultant focused on data analytics. 
-
-<!--
-Though my passion for data is relatively new, it doesn't diminish my expertise and skills in the field.
--->
-
-I was trained at the Data School powered by The Information Lab where I underwent 4 months of intensive training in Tableau and Alteryx. 
-Now, while still at the Information Lab, I am working with different external clients in all different industries.
-Past clients include Vanguard, Squaretrade, Davis Polk & Wardell, and Scotiabank. 
-
-<br>
-<br>
 
 ## 📫 Contact
 
