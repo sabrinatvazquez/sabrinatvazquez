@@ -1,10 +1,11 @@
 ## Hi, I'm Sabrina 👋
 "I aim to enable others to make sense of and leverage data making their work more intuitive and efficient."
 
-Solutions Consultant: Data Analytics & Visualisation Expert
+Solutions Consultant
+Data Analytics & Visualisation Expert
+
 
 Specialized in bring data to life through:
-
 **Tableau** | **Alteryx** | **PBI** |**SQL**
 
 
@@ -32,7 +33,7 @@ Specialized in bring data to life through:
 #### Topics of Interest
 
 <a href="https://public.tableau.com/app/profile/sabrina.tatiana.vazquez/viz/AroundtheWorldwith16Personalities/CIRCLEANDBOXES">
-    <img src="https://public.tableau.com/thumb/views/DashboardWeekDay5NYCSchoolViolations/Dashboard1" width ="33%">
+    <img src="https://public.tableau.com/thumb/views/AroundtheWorldwith16Personalities/Dashboard1" width ="33%">
   </a>
 
 <a href="https://public.tableau.com/app/profile/sabrina.tatiana.vazquez/viz/FormulaOneRacePath/Dashboard1">
@@ -61,7 +62,7 @@ And many more on my [Tableau Public](https://public.tableau.com/app/profile/sabr
 
 <br>
 
-More on my Data School [Profile](https://www.thedataschool.com/blog/sabrina-vazquez/).
+More on my The Information Lab [Profile](https://www.theinformationlab.com/about/team/sabrina-vazquez/).
 
   
 <br>
@@ -121,7 +122,7 @@ View my other certifications on my [Credly profile](https://www.credly.com/users
 
 ## 👤 About Me
 
-Originally from Miami, FL I am living my dream working in NYC as a data analyst consultant. 
+Originally from Miami, FL I am living my dream working in NYC as a solutions consultant focused on data analytics. 
 
 <!--
 Though my passion for data is relatively new, it doesn't diminish my expertise and skills in the field.
@@ -129,7 +130,7 @@ Though my passion for data is relatively new, it doesn't diminish my expertise a
 
 I was trained at the Data School powered by The Information Lab where I underwent 4 months of intensive training in Tableau and Alteryx. 
 Now, while still at the Information Lab, I am working with different external clients in all different industries.
-My longest placement was with Vanguard where I was a contracted Data Analyst for 6 months. 
+Past clients include Vanguard, Squaretrade, Davis Polk & Wardell, and Scotiabank. 
 
 <br>
 <br>
