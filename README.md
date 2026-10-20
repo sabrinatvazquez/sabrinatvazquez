@@ -9,11 +9,11 @@ I am a Tableau Ambassador and specialized in:
 
 ## 👤 About Me
 
-Based in NYC and originally from Miami, FL I am working as a Solutions Consultant focused on data analytics. 
+Based in NYC and originally from Miami, FL I am working as a Solutions Consultant at The Information Lab focused on data analytics. 
 
 I was trained at the Data School powered by The Information Lab where I underwent 4 months of intensive training in Tableau and Alteryx. 
-Now, while still at the Information Lab, I am working with different external clients in all different industries.
-Past clients include Vanguard, Squaretrade, Davis Polk & Wardell, and Scotiabank. 
+
+I am working with different external clients in different industries. Past clients include Vanguard, Squaretrade, Davis Polk & Wardell, and Scotiabank. 
 
 
 <br>
@@ -104,7 +104,7 @@ See my [Summer of SQL](https://github.com/sabrinatvazquez/summer_of_sql) repo wi
 ## Certifications
 
 <a href="https://public.tableau.com/app/profile/sabrina.tatiana.vazquez/vizzes">
-  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/credly_badges/2026-tableau-ambassador.png?raw=true" width="24%">
+  <img src="https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/credly_badges/2026-tableau-ambassador.jpeg?raw=true" width="24%">
 </a>
 
 
